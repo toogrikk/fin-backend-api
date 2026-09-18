@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3XdI7aEVDKw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.miroshnichenko\\source\\repos\\fin-backend-api\\fin-backend-api\\fin-backend-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.miroshnichenko\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\a.miroshnichenko\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
