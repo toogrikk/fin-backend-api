@@ -1,0 +1,19 @@
+# Служебные папки Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Папки сборки и компиляции (Artifacts)
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Папки пакетов NuGet
+packages/
+*.nuget.props
+*.nuget.targets
